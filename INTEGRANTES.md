@@ -1,4 +1,4 @@
 | Nombre             | Apellido              | Usuario git        |
 |--------------------|-----------------------|--------------------|
-| Nicolás            | Stuardo               | @nstuardod         |
 | Fabian             | Castillo Cruces       | @feccastillo       |
+| Nicolás            | Stuardo Díaz          | @nstuardod         |
